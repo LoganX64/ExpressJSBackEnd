@@ -36,7 +36,7 @@ npm run build
 npm start
 
 ## 📁 Folder Structure
-
+```
 ├── server.ts # App entry point
 ├── src/
 │ ├── app.ts # Express app setup
@@ -50,7 +50,7 @@ npm start
 ├── package.json # Project metadata and dependencies
 ├── tsconfig.json # TypeScript config
 └── eslint.config.mjs # Linting configuration
-
+```
 
 ## 📄 License
 
