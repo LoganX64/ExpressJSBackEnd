@@ -35,7 +35,7 @@ npm run dev
 npm run build
 npm start
 
-## 📁 Folder Structure
+## 📁 Project Structure
 ```
 ├── server.ts # App entry point
 ├── src/
